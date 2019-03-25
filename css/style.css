@@ -1,0 +1,67 @@
+.text-muted {
+  font-family: 'Lato', sans-serif;
+}
+
+
+.text-thin {
+  font-weight: 100;
+
+  color: #2d3c49;
+}
+
+
+.title-super {
+  font-size: 55px;
+}
+
+
+.text-right {
+  padding-top: 80px;
+}
+
+
+.text-thick {
+  font-weight: 300;
+}
+
+
+.text-muted {
+  color: #7d97ad;
+
+  padding-left: 20px;
+}
+
+
+.title-logo {
+  margin-top: 80px;
+
+  width: 120px;
+
+  height: 120px;
+}
+
+
+.title-banner {
+  width: 100%;
+}
+
+
+.img-sub {
+  font-size: 20px;
+
+  color: #2d3c49;
+}
+
+
+.img-placing {
+  padding-left: 45px;
+}
+
+.social-accounts {
+  font-family: sans-serif;
+  font-style: italic;
+
+}
+
+/* no need to use media queries since i used bootstrap img-responsive class to ensure
+image responsiveness */
